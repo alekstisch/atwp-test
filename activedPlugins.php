@@ -1,6 +1,4 @@
 <?php
-//в корень сайта
-
 define('WPPATH', $_SERVER['PWD']);
 
 require_once( WPPATH.'/wp-load.php' );
