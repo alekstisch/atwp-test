@@ -1,0 +1,8 @@
+https://downloads.wordpress.org/plugin/media-file-renamer.zip
+https://downloads.wordpress.org/plugin/filenames-to-latin.zip
+https://downloads.wordpress.org/plugin/autoptimize.zip
+https://downloads.wordpress.org/plugin/cyr3lat.zip
+https://downloads.wordpress.org/plugin/wordpress-seo.zip
+https://downloads.wordpress.org/plugin/wp-super-cache.zip
+https://downloads.wordpress.org/plugin/webp-express.zip
+https://downloads.wordpress.org/plugin/amp.zip
