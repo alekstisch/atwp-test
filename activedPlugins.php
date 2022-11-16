@@ -7,7 +7,7 @@ require_once( WPPATH.'/wp-load.php' );
 
 function at_get_new_plugin_list(){
 	
-	$list_plugins = explode( PHP_EOL, file_get_contents(WPPATH.'/wp-content/plugins/list_plugins.txt'));
+	$list_plugins = explode( PHP_EOL, file_get_contents(WPPATH.'/wp-content/plugins/plug-main/pluginsList.txt'));
 	
 	$new_list_plugin = [];
 
